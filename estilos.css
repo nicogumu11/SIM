@@ -1,0 +1,38 @@
+body{
+font-family: arial;
+background-color: blue;
+text-align: center;
+}
+
+.contenedor{
+background-color: white;
+width: 300px;
+margin: auto;
+padding: 25px;
+border-radius: 10px;
+box-shadow: 2px 2px 10px gray;
+}
+
+
+input{
+width: 70%;
+padding: 8px;
+margin: 10px;
+}
+
+button{
+background-color: #007BFF;
+color: white;
+border: none;
+padding: 10px 20px;
+cursor: pointer;
+}
+
+.aprobado{
+color: green;
+font-weight: bold;
+}
+
+.reprobado{
+color: red;
+font-weight
